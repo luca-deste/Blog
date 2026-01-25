@@ -1,5 +1,7 @@
 **Pagina principale della certificazione su MS Learn**
+
 Contiene la sezione di preparazione all'esame, che porta al corso Microsoft. 
+
 [Microsoft Certified: Azure Fundamentals - Certifications | Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 
 **Guida allo studio per la certificazione**
