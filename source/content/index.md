@@ -12,4 +12,3 @@ Qualche anno fa ho deciso di stravolgere la mia vita professionale, tuffandomi n
 ## **I miei link**
 [LinkedIn](https://www.linkedin.com/in/lucadeste/)
 
-
