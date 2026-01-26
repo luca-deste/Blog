@@ -1,10 +1,10 @@
 ## Note:
-Questo è il codice per verificare i gruppi di un utente con powershell, mettendoli in ordine alfabetico:
+Questo è il codice per ottenere la lista dei domain controller di una foresta AD:
 
 ## Uso:
-Sostituire {USERNAME} con il nome dell'utente di dominio.
+Non sono necessarie modifiche al codice
 
 ## Codice:
 ```
-#Get-ADUser -Identity "{USERNAME}" -Properties MemberOf | Select-Object -ExpandProperty MemberOf | ForEach-Object { ($_ -split ',')[0] -replace '^CN=' } | Sort-Object
+#(Get-ADForest).Domains | %{ Get-ADDomainController -Filter * -Server $_ }| Format-Table -Property Name,ComputerObjectDN,Domain,Forest,IPv4Address,OperatingSystem,OperatingSystemVersio
 ```
