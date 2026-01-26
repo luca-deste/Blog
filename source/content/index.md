@@ -11,6 +11,3 @@ Qualche anno fa ho deciso di stravolgere la mia vita professionale, tuffandomi n
 
 ## **I miei link**
 [LinkedIn](https://www.linkedin.com/in/lucadeste/)
-
-
-[Test](/source%2Fcontent%2FAppunti%2FWindows%2FPowershell/Test.excalidraw.svg)
