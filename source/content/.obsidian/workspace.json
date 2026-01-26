@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certificazioni/Microsoft/AZ-900/Dove studiare.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dove studiare"
+              "title": "index"
             }
           }
         ],
@@ -201,12 +201,16 @@
   },
   "active": "cadd87508fc95ac8",
   "lastOpenFiles": [
+    "Appunti/Windows/Powershell/Verificare Gruppi utente - Ordine Alfabetico.md",
+    "Appunti/Windows/Powershell",
+    "Appunti/Windows",
+    "Appunti",
+    "Test page.md",
     "index.md",
     "Certificazioni/Microsoft/AZ-900/Dove studiare.md",
     "Certificazioni/Guida alla navigazione.md",
     "Certificazioni/Microsoft/AZ-900",
     "Certificazioni/Microsoft",
-    "Test page.md",
     "Note/index.md",
     "Note/Some note.md",
     "Certificazioni",
