@@ -31,3 +31,25 @@ Se voleste approfondire il discorso vi consiglio di visitare [Questo sito che sp
 
 ## Il modello di pagamento in base al consumo
 
+Uno dei motivi principali per cui il cloud è così apprezzato è anche il modello di pagamento che propone: basato sull'effettivo consumo delle risorse.
+
+Il cloud è infatti famoso per l'utilizzo del modello "pay as you go".
+
+Questo modello offre le seguenti caratteristiche:
+
+-   **Flessibilità:** Paghi solamente quando utilizzi una risorsa. Mentre nel modello tradizionale acquisti un server e una volta acceso che venga usato o meno, è stato pagato. Nel modello pay as you go una volta che il server viene spento il contatore si ferma. Non paghi per una risorsa che non stai utilizzando.
+    
+-   **Zero costi iniziali:** I dispositivi costano, i datacenter costano e in generale la creazione di un'infrastruttura non è cosa da poco. Nel cloud, non paghi nulla finché non accendi nulla. E nel momento in cui accendi una risorsa, puoi già sfruttarla ed inizi a pagare per essa.
+    
+-   **Scalabilità:** Se è necessario aumentare la potenza di calcolo, o lo storage, puoi farlo con pochi click. Cambia solo quanto ti sarà addebitato alla fine del mese.
+    
+-   **Ottimizzazione delle risorse:** Il modello pay as you go incoraggia l'ottimizzazione delle risorse. Questo permette di risparmiare e ridurre gli sprechi. Inoltre, l'ottimizzazione delle risorse è incoraggiata anche dal rischio di trovarsi a pagare cifre molto alte qualora ci si dimenticasse di stoppare delle risorse e queste continuassero ad essere fatturate.
+    
+-   **Sperimentazione a basso rischio:** Proprio grazie all'assenza di costi iniziali, è possibile testare nuove idee o nuovi servizi senza dover investire grandi capitali. Se il progetto funziona, si scala; se non funziona, si spegne tutto e si smette di pagare, eliminando il rischio di rimanere con hardware costoso e inutilizzato.
+    
+
+***
+
+In sintesi, il passaggio al cloud non è solo una questione tecnologica, ma un vero e proprio cambio di mentalità economica. Passare da un modello basato sul possesso (Capex) a uno basato sul consumo (Opex) e sul "pay as you go" permette alle aziende di essere più agili, di rischiare meno e di adattarsi velocemente alle esigenze del mercato.
+
+Ora che abbiamo chiarito i concetti economici fondamentali, siamo pronti per addentrarci nei dettagli tecnici e capire come questo "computer di qualcun altro" viene effettivamente distribuito. Nel prossimo capitolo vedremo infatti le differenze tra Cloud Pubblico, Privato e Ibrido.
