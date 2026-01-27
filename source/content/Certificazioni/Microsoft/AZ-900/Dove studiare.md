@@ -1,3 +1,9 @@
+**Corso in italiano creato da me**
+
+Verrà aggiornato man mano con tutti i contenuti, unendo video e dispense
+
+[Prima pagina](URL)
+
 **Pagina principale della certificazione su MS Learn**
 
 Contiene la sezione di preparazione all'esame, che porta al corso Microsoft. 
