@@ -53,3 +53,7 @@ Questo modello offre le seguenti caratteristiche:
 In sintesi, il passaggio al cloud non è solo una questione tecnologica, ma un vero e proprio cambio di mentalità economica. Passare da un modello basato sul possesso (Capex) a uno basato sul consumo (Opex) e sul "pay as you go" permette alle aziende di essere più agili, di rischiare meno e di adattarsi velocemente alle esigenze del mercato.
 
 Ora che abbiamo chiarito i concetti economici fondamentali, siamo pronti per addentrarci nei dettagli tecnici e capire come questo "computer di qualcun altro" viene effettivamente distribuito. Nel prossimo capitolo vedremo infatti le differenze tra Cloud Pubblico, Privato e Ibrido.
+
+___
+
+**Prossima parte del corso:** [[I vantaggi del cloud]]
