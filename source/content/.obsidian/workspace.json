@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Certificazioni/Microsoft/AZ-900/Dove studiare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Dove studiare"
             }
           }
         ],
@@ -201,12 +201,20 @@
   },
   "active": "cadd87508fc95ac8",
   "lastOpenFiles": [
+    "Certificazioni/Microsoft/AZ-900/Dettagli utili.md",
+    "Certificazioni/Microsoft/AZ-900/Corso/Concetti del Cloud/Cos'è il Cloud.md",
+    "index.md",
+    "Certificazioni/Microsoft/AZ-900/Corso/Concetti del Cloud",
+    "Certificazioni/Microsoft/AZ-900/Corso",
+    "Appunti/Windows/Powershell/_Powershell fondamentali.md",
+    "Appunti/Windows/Powershell/260126 Verificare se uno o più utenti è presente in uno o più gruppi.md",
+    "Appunti/Windows/Powershell/260126 Verificare gruppi utente - Ordine alfabetico.md",
+    "Appunti/Windows/Powershell/260126 Ottenere lista dei Domain Controller.md",
     "Appunti/Windows/Powershell/Verificare Gruppi utente - Ordine Alfabetico.md",
     "Appunti/Windows/Powershell",
     "Appunti/Windows",
     "Appunti",
     "Test page.md",
-    "index.md",
     "Certificazioni/Microsoft/AZ-900/Dove studiare.md",
     "Certificazioni/Guida alla navigazione.md",
     "Certificazioni/Microsoft/AZ-900",

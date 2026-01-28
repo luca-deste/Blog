@@ -2,7 +2,7 @@
 
 Verrà aggiornato man mano con tutti i contenuti, unendo video e dispense
 
-[Prima pagina: Cos'è il cloud](https://www.noteshub.app/notebooks/github/luca-deste%2FLT-Lab/source%2Fcontent%2FCertificazioni%2FMicrosoft%2FAZ-900%2FCorso%2FConcetti%20del%20Cloud/Cos'%C3%A8%20il%20Cloud.md)
+[[Cos'è il Cloud]]
 
 ___
 
