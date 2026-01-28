@@ -236,6 +236,3 @@ In questa seconda parte abbiamo esplorato i concetti fondamentali che caratteriz
 - Il **disaster recovery** protegge dalla perdita di dati e dalla interruzione prolungata dei servizi
 - L'**affidabilità e la prevedibilità** assicurano performance costanti e costi controllati
 - La **sicurezza e la governance** forniscono il framework per proteggere asset e garantire la compliance
-
-Nel prossimo modulo approfondiremo i modelli di servizio cloud (**IaaS, PaaS, SaaS**) e i modelli di deployment (**Public, Private, Hybrid**), elementi essenziali per comprendere come progettare architetture cloud efficaci e per prepararsi alla certificazione AZ-900.
-
