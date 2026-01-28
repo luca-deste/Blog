@@ -33,5 +33,8 @@ ___
 **INGLESE - Esami di pratica per testare le proprie conoscenze**
 
 [AZ-900 Microsoft Azure Fundamentals Practice Exams - Tutorials Dojo](https://portal.tutorialsdojo.com/courses/az-900-microsoft-azure-fundamentals-practice-exams/)
+___
+**Portale Azure - Vengono offerti crediti gratuiti alla nuova registrazione. Ideale per sperimentare.**
 
+https://portal.azure.com/
 
