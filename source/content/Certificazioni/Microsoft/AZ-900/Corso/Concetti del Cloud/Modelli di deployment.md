@@ -112,3 +112,6 @@ Copy
 | Hybrid | Bilanciato | Variabile | Alta | Configurabile |
 
 La scelta del modello dipende dalle esigenze specifiche: non esiste una risposta giusta universale, ma una risposta giusta per il proprio contesto.
+
+___
+Prossima parte: [[Modelli di servizio e Responsabilità condivisa]]
