@@ -287,3 +287,5 @@ Copy
 | **Casi d'uso** | Legacy, lift-shift | Nuove app, microservizi | Produttività, standard | Eventi, automazione, API leggere |
 
 La scelta del modello dipende dal livello di controllo necessario, dalle competenze interne disponibili e dal tipo di workload. Generalmente, se si migra un sistema esistente senza modifiche, si tende verso IaaS. Se si sviluppa nuovo codice, PaaS offre il miglior bilanciamento. Per software standard (posta, office automation), SaaS è la scelta ovvia. Il Serverless è ideale per workload event-driven e sporadici.
+
+Prossima parte: [[Architettura Fisica e Logica]]
