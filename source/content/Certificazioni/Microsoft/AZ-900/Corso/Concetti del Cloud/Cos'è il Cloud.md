@@ -1,1 +1,0 @@
-# Cos'è il cloud
