@@ -2,7 +2,7 @@
 
 Verrà aggiornato man mano con tutti i contenuti, unendo video e dispense
 
-[[Cos'è il Cloud]]
+[[Descrivere il cloud computing]]
 
 
 ___
